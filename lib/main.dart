@@ -1,3 +1,6 @@
+//Madina Bahriddinova
+//Student id: 220155
+//Lab7
 import 'package:flutter/material.dart';
 import 'screens/posts_screen.dart';
 import 'screens/post_form_screen.dart';
